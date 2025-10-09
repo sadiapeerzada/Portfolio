@@ -20,12 +20,6 @@ This project features a **clean, neon-inspired UI** designed to highlight my ski
 
 ---
 
-## 🎨 Live Demo
-
-Check out the interactive design on Figma:  
-👉 [Interactive Personal Portfolio](https://www.figma.com/make/kg8w4BRzjB4pX2laKfBiGt/Sadia-Peerzada-s-Portfolio?t=9BprAAMuI69SWElR-1)
-
----
 
 ## 🧠 Technologies Used
 
